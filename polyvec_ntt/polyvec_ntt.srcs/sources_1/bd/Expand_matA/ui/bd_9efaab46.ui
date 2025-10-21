@@ -1,0 +1,33 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.25",
+   "Default View_TopLeft":"-225,-134",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port ap_ctrl_0 -pg 1 -lvl 0 -x -20 -y -20 -defaultsOSRD
+preplace port port-id_ap_clk_0 -pg 1 -lvl 0 -x -20 -y -50 -defaultsOSRD
+preplace port port-id_ap_rst_0 -pg 1 -lvl 0 -x -20 -y 10 -defaultsOSRD
+preplace port port-id_mat_ce0_0 -pg 1 -lvl 2 -x 370 -y -60 -defaultsOSRD
+preplace port port-id_mat_we0_0 -pg 1 -lvl 2 -x 370 -y -30 -defaultsOSRD
+preplace port port-id_rho_ce0_0 -pg 1 -lvl 2 -x 370 -y 0 -defaultsOSRD
+preplace portBus mat_address0_0 -pg 1 -lvl 2 -x 370 -y -90 -defaultsOSRD
+preplace portBus mat_d0_0 -pg 1 -lvl 2 -x 370 -y 30 -defaultsOSRD
+preplace portBus rho_address0_0 -pg 1 -lvl 2 -x 370 -y 60 -defaultsOSRD
+preplace portBus rho_q0_0 -pg 1 -lvl 0 -x -20 -y 40 -defaultsOSRD
+preplace inst expand_mat_0 -pg 1 -lvl 1 -x 170 -y 10 -defaultsOSRD
+preplace netloc ap_clk_0_1 1 0 1 0J -50n
+preplace netloc ap_rst_0_1 1 0 1 0J 10n
+preplace netloc expand_mat_0_mat_address0 1 1 1 340J -90n
+preplace netloc expand_mat_0_mat_ce0 1 1 1 330J -60n
+preplace netloc expand_mat_0_mat_d0 1 1 1 340J 30n
+preplace netloc expand_mat_0_mat_we0 1 1 1 350J -30n
+preplace netloc expand_mat_0_rho_address0 1 1 1 NJ 60
+preplace netloc expand_mat_0_rho_ce0 1 1 1 NJ 0
+preplace netloc rho_q0_0_1 1 0 1 NJ 40
+preplace netloc ap_ctrl_0_1 1 0 1 NJ -20
+levelinfo -pg 1 -20 170 370
+pagesize -pg 1 -db -bbox -sgen -160 -110 560 220
+"
+}
+

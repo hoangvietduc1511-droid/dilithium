@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Oct 16 12:16:29 2025
+# Process ID: 6096
+# Current directory: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.runs/synth_1
+# Command line: vivado.exe -log polyveck_decompose.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source polyveck_decompose.tcl
+# Log file: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.runs/synth_1/polyveck_decompose.vds
+# Journal file: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.runs/synth_1\vivado.jou
+# Running On: IphoneH, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 8366 MB
+#-----------------------------------------------------------
+source polyveck_decompose.tcl -notrace

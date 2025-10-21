@@ -1,0 +1,198 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x86A9F9D1B7F79282",
+      "device": "xc7a35tcpg236-1",
+      "gen_directory": "../../../../polyvec_ntt.gen/sources_1/bd/Expand_matA",
+      "name": "Expand_matA",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2022.1",
+      "validated": "true"
+    },
+    "design_tree": {
+      "expand_mat_0": ""
+    },
+    "interface_ports": {
+      "ap_ctrl_0": {
+        "mode": "Slave",
+        "vlnv_bus_definition": "xilinx.com:interface:acc_handshake:1.0",
+        "vlnv": "xilinx.com:interface:acc_handshake_rtl:1.0"
+      }
+    },
+    "ports": {
+      "ap_clk_0": {
+        "type": "clk",
+        "direction": "I",
+        "parameters": {
+          "ASSOCIATED_RESET": {
+            "value": "ap_rst_0",
+            "value_src": "default"
+          },
+          "CLK_DOMAIN": {
+            "value": "Expand_matA_ap_clk_0",
+            "value_src": "default"
+          },
+          "FREQ_HZ": {
+            "value": "100000000",
+            "value_src": "default"
+          },
+          "FREQ_TOLERANCE_HZ": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "PHASE": {
+            "value": "0.0",
+            "value_src": "default"
+          }
+        }
+      },
+      "ap_rst_0": {
+        "type": "rst",
+        "direction": "I",
+        "parameters": {
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "POLARITY": {
+            "value": "ACTIVE_HIGH"
+          }
+        }
+      },
+      "mat_address0_0": {
+        "type": "data",
+        "direction": "O",
+        "left": "12",
+        "right": "0",
+        "parameters": {
+          "LAYERED_METADATA": {
+            "value": "undef",
+            "value_src": "default"
+          }
+        }
+      },
+      "mat_ce0_0": {
+        "direction": "O"
+      },
+      "mat_d0_0": {
+        "type": "data",
+        "direction": "O",
+        "left": "31",
+        "right": "0",
+        "parameters": {
+          "LAYERED_METADATA": {
+            "value": "undef",
+            "value_src": "default"
+          }
+        }
+      },
+      "mat_we0_0": {
+        "direction": "O"
+      },
+      "rho_address0_0": {
+        "type": "data",
+        "direction": "O",
+        "left": "4",
+        "right": "0",
+        "parameters": {
+          "LAYERED_METADATA": {
+            "value": "undef",
+            "value_src": "default"
+          }
+        }
+      },
+      "rho_ce0_0": {
+        "direction": "O"
+      },
+      "rho_q0_0": {
+        "type": "data",
+        "direction": "I",
+        "left": "7",
+        "right": "0",
+        "parameters": {
+          "LAYERED_METADATA": {
+            "value": "undef",
+            "value_src": "default"
+          }
+        }
+      }
+    },
+    "components": {
+      "expand_mat_0": {
+        "vlnv": "xilinx.com:hls:expand_mat:1.0",
+        "xci_name": "Expand_matA_expand_mat_0_0",
+        "xci_path": "ip\\Expand_matA_expand_mat_0_0\\Expand_matA_expand_mat_0_0.xci",
+        "inst_hier_path": "expand_mat_0"
+      }
+    },
+    "interface_nets": {
+      "ap_ctrl_0_1": {
+        "interface_ports": [
+          "ap_ctrl_0",
+          "expand_mat_0/ap_ctrl"
+        ]
+      }
+    },
+    "nets": {
+      "ap_clk_0_1": {
+        "ports": [
+          "ap_clk_0",
+          "expand_mat_0/ap_clk"
+        ]
+      },
+      "ap_rst_0_1": {
+        "ports": [
+          "ap_rst_0",
+          "expand_mat_0/ap_rst"
+        ]
+      },
+      "expand_mat_0_mat_address0": {
+        "ports": [
+          "expand_mat_0/mat_address0",
+          "mat_address0_0"
+        ]
+      },
+      "expand_mat_0_mat_ce0": {
+        "ports": [
+          "expand_mat_0/mat_ce0",
+          "mat_ce0_0"
+        ]
+      },
+      "expand_mat_0_mat_d0": {
+        "ports": [
+          "expand_mat_0/mat_d0",
+          "mat_d0_0"
+        ]
+      },
+      "expand_mat_0_mat_we0": {
+        "ports": [
+          "expand_mat_0/mat_we0",
+          "mat_we0_0"
+        ]
+      },
+      "expand_mat_0_rho_address0": {
+        "ports": [
+          "expand_mat_0/rho_address0",
+          "rho_address0_0"
+        ]
+      },
+      "expand_mat_0_rho_ce0": {
+        "ports": [
+          "expand_mat_0/rho_ce0",
+          "rho_ce0_0"
+        ]
+      },
+      "rho_q0_0_1": {
+        "ports": [
+          "rho_q0_0",
+          "expand_mat_0/rho_q0"
+        ]
+      }
+    }
+  }
+}

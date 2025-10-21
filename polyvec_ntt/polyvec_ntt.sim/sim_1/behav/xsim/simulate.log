@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Note: v_in(0,0) = 0  => v0_out = 8380417, v1_out = 0
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
+Note: v_in(0,1) = 8380416  => v0_out = 8380416, v1_out = 0
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
+Note: v_in(0,2) = 1234567  => v0_out = 8567432, v1_out = 2
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
+Note: v_in(0,3) = 8380416  => v0_out = 8380416, v1_out = 0
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
+Note: v_in(1,0) = 4000000  => v0_out = 8190209, v1_out = 8
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
+Note: v_in(1,1) = 1  => v0_out = 8380418, v1_out = 0
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
+Note: v_in(1,2) = 500000  => v0_out = 8356641, v1_out = 1
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
+Note: v_in(1,3) = 7000000  => v0_out = 8571329, v1_out = 13
+Time: 130 ns  Iteration: 0  Process: /tb_polyveck_decompose/stim  File: D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sim_1/new/tb_polyveck_decompose.vhd
