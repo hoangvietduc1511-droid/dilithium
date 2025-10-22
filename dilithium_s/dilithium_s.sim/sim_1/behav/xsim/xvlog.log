@@ -1,0 +1,38 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_expand_mat_Pipeline_VITIS_LOOP_31_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_expand_mat_Pipeline_VITIS_LOOP_31_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_expand_mat_Pipeline_VITIS_LOOP_41_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_expand_mat_Pipeline_VITIS_LOOP_41_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_expand_mat_Pipeline_VITIS_LOOP_372_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_expand_mat_Pipeline_VITIS_LOOP_372_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_expand_mat_Pipeline_VITIS_LOOP_384_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_expand_mat_Pipeline_VITIS_LOOP_384_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_expand_mat_Pipeline_VITIS_LOOP_386_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_expand_mat_Pipeline_VITIS_LOOP_386_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_expand_mat_Pipeline_VITIS_LOOP_390_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_expand_mat_Pipeline_VITIS_LOOP_390_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_expand_mat_Pipeline_VITIS_LOOP_416_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_expand_mat_Pipeline_VITIS_LOOP_416_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_flow_control_loop_pipe_sequential_init.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_flow_control_loop_pipe_sequential_init
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_inbuf_RAM_AUTO_1R1W.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_inbuf_RAM_AUTO_1R1W
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_KeccakF1600_StatePermute.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_KeccakF1600_StatePermute
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_KeccakF1600_StatePermute_KeccakF_RoundConstants_ROM_AUTO_1R.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_KeccakF1600_StatePermute_KeccakF_RoundConstants_ROM_AUTO_1R
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_outbuf_RAM_AUTO_1R1W.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_outbuf_RAM_AUTO_1R1W
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_s_RAM_AUTO_1R1W.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_s_RAM_AUTO_1R1W
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat_t_RAM_1WNR_AUTO_1R1W.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat_t_RAM_1WNR_AUTO_1R1W
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ipshared/7ad0/hdl/verilog/expand_mat.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module expand_mat
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/ip/Expand_matA_expand_mat_0_0/sim/Expand_matA_expand_mat_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Expand_matA_expand_mat_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.gen/sources_1/bd/Expand_matA/sim/Expand_matA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Expand_matA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/Expand_matA_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Expand_matA_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HOC_TAP/Nam_5/Do_an/dilithium_s/dilithium_s.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

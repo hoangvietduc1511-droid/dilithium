@@ -1,0 +1,23 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/UART_TOP.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/baudrate_generator.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/poly_pkg.vhd" \
+"../../../../dilithium_s.srcs/sources_1/new/dilithium_sign_top.vhd" \
+"../../../../../poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/keccak_pkg.vhd" \
+"../../../../../shake_256/shake_256.srcs/sources_1/new/keccak_pkg.vhd" \
+"../../../../../poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/keccak_f1600.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/poly_ntt.vhd" \
+"../../../../../poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/shake256_core.vhd" \
+"../../../../../poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/rej_gamma1m1.vhd" \
+"../../../../../poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/poly_uniform_gamma1m1.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyveck_add.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyveck_ntt.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyvecl_add.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyvecl_ntt.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/uart_rx.vhd" \
+"../../../../../polyvec_ntt/polyvec_ntt.srcs/sources_1/new/uart_tx.vhd" \
+"../../../../dilithium_s.srcs/sim_1/new/dilithium_sign_top_tb.vhd" \
+
+# Do not sort compile order
+nosort

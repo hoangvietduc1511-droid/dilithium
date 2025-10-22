@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_dilithium_sign_top_behav/xsimk.exe -simmode gui -wdb tb_dilithium_sign_top_behav.wdb -simrunnum 0 -socket 62195
+Design successfully loaded
+Design Loading Memory Usage: 12268 KB (Peak: 12268 KB)
+Design Loading CPU Usage: 31 ms

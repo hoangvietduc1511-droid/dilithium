@@ -1,0 +1,53 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: D:/Download/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_dilithium_sign_top_behav xil_defaultlib.tb_dilithium_sign_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xil_defaultlib.poly_pkg
+Compiling package xil_defaultlib.keccak_pkg
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling architecture behavior of entity xil_defaultlib.baudrate_generator [baudrate_generator_default]
+Compiling architecture behavior of entity xil_defaultlib.UART_rx [uart_rx_default]
+Compiling architecture behavior of entity xil_defaultlib.UART_tx [uart_tx_default]
+Compiling architecture behavioral of entity xil_defaultlib.UART_TOP [uart_top_default]
+Compiling architecture rtl of entity xil_defaultlib.keccak_f1600 [keccak_f1600_default]
+Compiling architecture rtl of entity xil_defaultlib.shake256_core [shake256_core_default]
+Compiling module xil_defaultlib.expand_mat_t_RAM_1WNR_AUTO_1R1W
+Compiling module xil_defaultlib.expand_mat_s_RAM_AUTO_1R1W
+Compiling module xil_defaultlib.expand_mat_inbuf_RAM_AUTO_1R1W
+Compiling module xil_defaultlib.expand_mat_outbuf_RAM_AUTO_1R1W
+Compiling module xil_defaultlib.expand_mat_flow_control_loop_pip...
+Compiling module xil_defaultlib.expand_mat_expand_mat_Pipeline_V...
+Compiling module xil_defaultlib.expand_mat_expand_mat_Pipeline_V...
+Compiling module xil_defaultlib.expand_mat_expand_mat_Pipeline_V...
+Compiling module xil_defaultlib.expand_mat_expand_mat_Pipeline_V...
+Compiling module xil_defaultlib.expand_mat_expand_mat_Pipeline_V...
+Compiling module xil_defaultlib.expand_mat_KeccakF1600_StatePerm...
+Compiling module xil_defaultlib.expand_mat_KeccakF1600_StatePerm...
+Compiling module xil_defaultlib.expand_mat_expand_mat_Pipeline_V...
+Compiling module xil_defaultlib.expand_mat_expand_mat_Pipeline_V...
+Compiling module xil_defaultlib.expand_mat
+Compiling module xil_defaultlib.Expand_matA_expand_mat_0_0
+Compiling module xil_defaultlib.Expand_matA
+Compiling module xil_defaultlib.Expand_matA_wrapper
+Compiling architecture rtl of entity xil_defaultlib.poly_ntt [poly_ntt_default]
+Compiling architecture rtl of entity xil_defaultlib.polyvecl_ntt [polyvecl_ntt_default]
+Compiling architecture rtl of entity xil_defaultlib.polyveck_ntt [polyveck_ntt_default]
+Compiling architecture rtl of entity xil_defaultlib.rej_gamma1m1 [\rej_gamma1m1(buflen=680)\]
+Compiling architecture rtl of entity xil_defaultlib.rej_gamma1m1 [\rej_gamma1m1(buflen=136)\]
+Compiling architecture rtl of entity xil_defaultlib.poly_uniform_gamma1m1 [poly_uniform_gamma1m1_default]
+Compiling architecture rtl of entity xil_defaultlib.polyvecl_add [polyvecl_add_default]
+Compiling architecture rtl of entity xil_defaultlib.polyveck_add [polyveck_add_default]
+Compiling architecture behavioral of entity xil_defaultlib.dilithium_sign_top [dilithium_sign_top_default]
+Compiling architecture sim of entity xil_defaultlib.tb_dilithium_sign_top
+Built simulation snapshot tb_dilithium_sign_top_behav

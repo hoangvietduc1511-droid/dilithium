@@ -1,0 +1,33 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/UART_TOP.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_TOP'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/baudrate_generator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'baudrate_generator'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/poly_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/dilithium_s/dilithium_s.srcs/sources_1/new/dilithium_sign_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dilithium_sign_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/keccak_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/shake_256/shake_256.srcs/sources_1/new/keccak_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/keccak_f1600.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'keccak_f1600'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/poly_ntt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'poly_ntt'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/shake256_core.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'shake256_core'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/rej_gamma1m1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rej_gamma1m1'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/poly_uni_gamma1/poly_uni_gamma1.srcs/sources_1/new/poly_uniform_gamma1m1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'poly_uniform_gamma1m1'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyveck_add.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'polyveck_add'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyveck_ntt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'polyveck_ntt'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyvecl_add.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'polyvecl_add'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/polyvecl_ntt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'polyvecl_ntt'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/uart_rx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_rx'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/polyvec_ntt/polyvec_ntt.srcs/sources_1/new/uart_tx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_tx'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/HOC_TAP/Nam_5/Do_an/dilithium_s/dilithium_s.srcs/sim_1/new/dilithium_sign_top_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_dilithium_sign_top'
